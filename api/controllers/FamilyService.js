@@ -1,6 +1,5 @@
 'use strict';
 //hima bindu
-//calling from server
 //conflicts...
 var Family = require('../domain/family');
   var Logger = require('bunyan');
